@@ -1,4 +1,4 @@
-FlowSync
+![flowsync](https://github.com/yonbergman/flowsync/raw/master/flowsync.png)
 =======
 A tool for syncing chat rooms across teams working together
 -----
